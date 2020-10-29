@@ -28,7 +28,7 @@ jobs:
 
     - name: InstallDitaGBStandard
       run: |
-        sudo cpan install Dita::GBStandard
+        sudo cpan install Dita::GB::Standard
 
 
 
