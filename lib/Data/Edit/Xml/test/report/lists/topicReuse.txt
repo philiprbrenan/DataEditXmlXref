@@ -1,0 +1,20 @@
+Topic Reuses
+
+Xref found 0 topics that are currently being reused on 2020-02-04 at 22:35:01
+
+
+This file: test/report/lists/topicReuse.txt
+
+   Column  Description
+1  Reuse   The number of times the target topic is reused over all topics
+2  Count   The number of times the target topic is reused in the source topic
+3  Target  The topic that is being reused == the target of reuse
+4  Source  The topic that is referencing the reused topic
+
+
+Summary_of_column                - Count of unique values found in each column                     Use the Geany flick capability by placing your cursor on the first word
+Comma_Separated_Values_of_column - Comma separated list of the unique values found in each column  of these lines and pressing control + down arrow to see each sub report.
+
+
+[]
+
