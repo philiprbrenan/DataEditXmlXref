@@ -1,0 +1,40 @@
+Good references at start
+
+Xref found 3 good references on 2020-04-23 at 19:22:45 at the start of processing.
+
+
+This file: /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/resports/good/references.txt
+
+   Column       Description
+1  Href         A good href attribute
+2  Source_File  The referencing source file
+
+
+Please note that this is a wide report: you might have to scroll
+a long way to the right to see all the columns of data available!
+
+
+Summary_of_column                - Count of unique values found in each column                     Use the Geany flick capability by placing your cursor on the first word
+Comma_Separated_Values_of_column - Comma separated list of the unique values found in each column  of these lines and pressing control + down arrow to see each sub report.
+
+
+   Href                       Source_File
+1  ../phil/aaa.dita#aaa/paaa  /home/phil/aaa.dita
+2  ../phil/bbb.dita#bbb/pbbb  /home/phil/aaa.dita
+3  ../phil/ccc.dita#ccc/pccc  /home/phil/aaa.dita
+
+
+Summary_of_column_Href
+   Count  Href
+1      1  ../phil/aaa.dita#aaa/paaa
+2      1  ../phil/bbb.dita#bbb/pbbb
+3      1  ../phil/ccc.dita#ccc/pccc
+
+Comma_Separated_Values_of_column_Href: "../phil/aaa.dita#aaa/paaa","../phil/bbb.dita#bbb/pbbb","../phil/ccc.dita#ccc/pccc"
+
+Summary_of_column_Source_File
+   Count  Source_File
+1      3  /home/phil/aaa.dita
+
+Comma_Separated_Values_of_column_Source_File: "/home/phil/aaa.dita"
+
