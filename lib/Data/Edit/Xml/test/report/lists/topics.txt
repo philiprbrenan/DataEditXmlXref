@@ -1,0 +1,56 @@
+Topics
+
+Xref found 2 topics on 2020-02-04 at 22:35:01
+
+
+This file: test/report/lists/topics.txt
+
+   Column  Description
+1  Tag     The outermost tag
+2  Id      The id on the outermost tag
+3  Author  The author of the topic
+4  Title   The title of the topic
+5  File    The source file name as a relative file name
+
+
+Summary_of_column                - Count of unique values found in each column                     Use the Geany flick capability by placing your cursor on the first word
+Comma_Separated_Values_of_column - Comma separated list of the unique values found in each column  of these lines and pressing control + down arrow to see each sub report.
+
+
+   Tag      Id                                         Author  Title  File
+1  concept  GUID-7b56e1e5-a8b5-7f09-73e5-e6ecb15d5e8f          aaaa   /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_3119ee09e34375ed4d8a7a15274a9774.dita
+2  concept  GUID-d003c721-d7e5-e4e8-3d84-ba7b4c80f56c          aaaa   /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_8b028dc2faaca88ac747b3776189d4a6.dita
+
+
+Summary_of_column_Tag
+   Count  Tag
+1      2  concept
+
+Comma_Separated_Values_of_column_Tag: "concept"
+
+Summary_of_column_Id
+   Count  Id
+1      1  GUID-7b56e1e5-a8b5-7f09-73e5-e6ecb15d5e8f
+2      1  GUID-d003c721-d7e5-e4e8-3d84-ba7b4c80f56c
+
+Comma_Separated_Values_of_column_Id: "GUID-7b56e1e5-a8b5-7f09-73e5-e6ecb15d5e8f","GUID-d003c721-d7e5-e4e8-3d84-ba7b4c80f56c"
+
+Summary_of_column_Author
+   Count  Author
+1      2
+
+Comma_Separated_Values_of_column_Author: ""
+
+Summary_of_column_Title
+   Count  Title
+1      2  aaaa
+
+Comma_Separated_Values_of_column_Title: "aaaa"
+
+Summary_of_column_File
+   Count  File
+1      1  /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_3119ee09e34375ed4d8a7a15274a9774.dita
+2      1  /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_8b028dc2faaca88ac747b3776189d4a6.dita
+
+Comma_Separated_Values_of_column_File: "/home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_3119ee09e34375ed4d8a7a15274a9774.dita","/home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_8b028dc2faaca88ac747b3776189d4a6.dita"
+
