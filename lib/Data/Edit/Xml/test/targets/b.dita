@@ -1,0 +1,6 @@
+bless({
+  source => "test/in/b.dita",
+  sourceDocType => "concept",
+  target => "test/out/c_aaaa_8b028dc2faaca88ac747b3776189d4a6.dita",
+  targetType => "topic",
+}, "SourceToTarget")
