@@ -1,0 +1,92 @@
+Bad references at start
+
+Xref found 1 bad references on 2020-02-04 at 22:35:01 at the start of processing
+
+Depending on the options chosen, Xref might fix or ameliorate these references
+so that the actual number of references with problems is lower than this.  The
+best way to find out how many references still need fixing after doing an Xref
+run with fixing options enabled is to do another run with all of these options
+disabled. The braver elements will be asking why we do not account for these
+improvements in flight - that would significantly increase code complexity
+while taking a lot of effort to validate yet produce no significant
+improvements - so it is much easier not to when a second run suffices.
+
+
+This file: test/report/bad/references.txt
+
+   Column          Description
+1  Reason          The reason why the reference failed to resolve
+2  Reference       The href in the source file
+3  Ref_File        The file containing the referenced topic relative to the referencing file
+4  Ref_TopicId     The topic id of the referenced topic
+5  Ref_Id          The id of the statement in the referenced topic
+6  Source_TopicId  The topic id of the referencing file
+7  Target_TopicId  The topic id of the referenced file
+8  Source_File     The referencing source file
+9  Target_File     The referenced target file
+
+
+Please note that this is a wide report: you might have to scroll
+a long way to the right to see all the columns of data available!
+
+
+Summary_of_column                - Count of unique values found in each column                     Use the Geany flick capability by placing your cursor on the first word
+Comma_Separated_Values_of_column - Comma separated list of the unique values found in each column  of these lines and pressing control + down arrow to see each sub report.
+
+
+   Reason        Reference    Ref_File                                                                Ref_TopicId  Ref_Id  Source_TopicId                             Target_TopicId  Source_File                                                                                                   Target_File
+1  No such file  b.dita#c/p1  /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/b.dita  c            p1      GUID-7b56e1e5-a8b5-7f09-73e5-e6ecb15d5e8f                  /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_3119ee09e34375ed4d8a7a15274a9774.dita  /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/b.dita
+
+
+Summary_of_column_Reason
+   Count  Reason
+1      1  No such file
+
+Comma_Separated_Values_of_column_Reason: "No such file"
+
+Summary_of_column_Reference
+   Count  Reference
+1      1  b.dita#c/p1
+
+Comma_Separated_Values_of_column_Reference: "b.dita#c/p1"
+
+Summary_of_column_Ref_File
+   Count  Ref_File
+1      1  /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/b.dita
+
+Comma_Separated_Values_of_column_Ref_File: "/home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/b.dita"
+
+Summary_of_column_Ref_TopicId
+   Count  Ref_TopicId
+1      1  c
+
+Comma_Separated_Values_of_column_Ref_TopicId: "c"
+
+Summary_of_column_Ref_Id
+   Count  Ref_Id
+1      1  p1
+
+Comma_Separated_Values_of_column_Ref_Id: "p1"
+
+Summary_of_column_Source_TopicId
+   Count  Source_TopicId
+1      1  GUID-7b56e1e5-a8b5-7f09-73e5-e6ecb15d5e8f
+
+Comma_Separated_Values_of_column_Source_TopicId: "GUID-7b56e1e5-a8b5-7f09-73e5-e6ecb15d5e8f"
+
+Summary_of_column_Target_TopicId
+[]
+Comma_Separated_Values_of_column_Target_TopicId: 
+
+Summary_of_column_Source_File
+   Count  Source_File
+1      1  /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_3119ee09e34375ed4d8a7a15274a9774.dita
+
+Comma_Separated_Values_of_column_Source_File: "/home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_3119ee09e34375ed4d8a7a15274a9774.dita"
+
+Summary_of_column_Target_File
+   Count  Target_File
+1      1  /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/b.dita
+
+Comma_Separated_Values_of_column_Target_File: "/home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/b.dita"
+
