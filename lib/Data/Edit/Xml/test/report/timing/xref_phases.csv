@@ -1,0 +1,8 @@
+Phase,Time_Seconds
+"createReportsInParallel1","      0.2553"
+"createReportsInParallel2","      0.0318"
+"fixReferences","      0.0289"
+"analyzeInputFiles","      0.0223"
+"loadInputFiles","      0.0046"
+"reportReferencesFromBookMaps","      0.0041"
+"checkReferences","      0.0028"
