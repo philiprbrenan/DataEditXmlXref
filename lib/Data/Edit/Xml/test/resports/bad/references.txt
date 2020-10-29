@@ -1,0 +1,117 @@
+Bad references at start
+
+Xref found 6 bad references on 2020-04-23 at 19:22:45 at the start of processing
+
+Depending on the options chosen, Xref might fix or ameliorate these references
+so that the actual number of references with problems is lower than this.  The
+best way to find out how many references still need fixing after doing an Xref
+run with fixing options enabled is to do another run with all of these options
+disabled. The braver elements will be asking why we do not account for these
+improvements in flight - that would significantly increase code complexity
+while taking a lot of effort to validate yet produce no significant
+improvements - so it is much easier not to when a second run suffices.
+
+
+This file: /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/resports/bad/references.txt
+
+   Column          Description
+1  Reason          The reason why the reference failed to resolve
+2  Reference       The href in the source file
+3  Ref_File        The file containing the referenced topic relative to the referencing file
+4  Ref_TopicId     The topic id of the referenced topic
+5  Ref_Id          The id of the statement in the referenced topic
+6  Source_TopicId  The topic id of the referencing file
+7  Target_TopicId  The topic id of the referenced file
+8  Source_File     The referencing source file
+9  Target_File     The referenced target file
+
+
+Please note that this is a wide report: you might have to scroll
+a long way to the right to see all the columns of data available!
+
+
+Summary_of_column                - Count of unique values found in each column                     Use the Geany flick capability by placing your cursor on the first word
+Comma_Separated_Values_of_column - Comma separated list of the unique values found in each column  of these lines and pressing control + down arrow to see each sub report.
+
+
+   Reason                      Reference                  Ref_File             Ref_TopicId  Ref_Id  Source_TopicId  Target_TopicId  Source_File          Target_File
+1  No such id in target topic  ../phil/aaa.dita#aaa/pbbb  /home/phil/aaa.dita  aaa          pbbb    bbb             aaa             /home/phil/bbb.dita  /home/phil/aaa.dita
+2  No such id in target topic  ../phil/bbb.dita#bbb/paaa  /home/phil/bbb.dita  bbb          paaa    bbb             bbb             /home/phil/bbb.dita  /home/phil/bbb.dita
+3  No such id in target topic  ../phil/ccc.dita#ccc/pbbb  /home/phil/ccc.dita  ccc          pbbb    bbb             ccc             /home/phil/bbb.dita  /home/phil/ccc.dita
+4  Topic id does not match     ../phil/aaa.dita#bbb/paaa  /home/phil/aaa.dita  bbb          paaa    ccc             aaa             /home/phil/ccc.dita  /home/phil/aaa.dita
+5  Topic id does not match     ../phil/bbb.dita#aaa/pbbb  /home/phil/bbb.dita  aaa          pbbb    ccc             bbb             /home/phil/ccc.dita  /home/phil/bbb.dita
+6  Topic id does not match     ../phil/ccc.dita#bbb/pccc  /home/phil/ccc.dita  bbb          pccc    ccc             ccc             /home/phil/ccc.dita  /home/phil/ccc.dita
+
+
+Summary_of_column_Reason
+   Count  Reason
+1      3  No such id in target topic
+2      3  Topic id does not match
+
+Comma_Separated_Values_of_column_Reason: "No such id in target topic","Topic id does not match"
+
+Summary_of_column_Reference
+   Count  Reference
+1      1  ../phil/aaa.dita#aaa/pbbb
+2      1  ../phil/aaa.dita#bbb/paaa
+3      1  ../phil/bbb.dita#aaa/pbbb
+4      1  ../phil/bbb.dita#bbb/paaa
+5      1  ../phil/ccc.dita#bbb/pccc
+6      1  ../phil/ccc.dita#ccc/pbbb
+
+Comma_Separated_Values_of_column_Reference: "../phil/aaa.dita#aaa/pbbb","../phil/aaa.dita#bbb/paaa","../phil/bbb.dita#aaa/pbbb","../phil/bbb.dita#bbb/paaa","../phil/ccc.dita#bbb/pccc","../phil/ccc.dita#ccc/pbbb"
+
+Summary_of_column_Ref_File
+   Count  Ref_File
+1      2  /home/phil/aaa.dita
+2      2  /home/phil/bbb.dita
+3      2  /home/phil/ccc.dita
+
+Comma_Separated_Values_of_column_Ref_File: "/home/phil/aaa.dita","/home/phil/bbb.dita","/home/phil/ccc.dita"
+
+Summary_of_column_Ref_TopicId
+   Count  Ref_TopicId
+1      3  bbb
+2      2  aaa
+3      1  ccc
+
+Comma_Separated_Values_of_column_Ref_TopicId: "aaa","bbb","ccc"
+
+Summary_of_column_Ref_Id
+   Count  Ref_Id
+1      3  pbbb
+2      2  paaa
+3      1  pccc
+
+Comma_Separated_Values_of_column_Ref_Id: "paaa","pbbb","pccc"
+
+Summary_of_column_Source_TopicId
+   Count  Source_TopicId
+1      3  bbb
+2      3  ccc
+
+Comma_Separated_Values_of_column_Source_TopicId: "bbb","ccc"
+
+Summary_of_column_Target_TopicId
+   Count  Target_TopicId
+1      2  aaa
+2      2  bbb
+3      2  ccc
+
+Comma_Separated_Values_of_column_Target_TopicId: "aaa","bbb","ccc"
+
+Summary_of_column_Source_File
+   Count  Source_File
+1      3  /home/phil/bbb.dita
+2      3  /home/phil/ccc.dita
+
+Comma_Separated_Values_of_column_Source_File: "/home/phil/bbb.dita","/home/phil/ccc.dita"
+
+Summary_of_column_Target_File
+   Count  Target_File
+1      2  /home/phil/aaa.dita
+2      2  /home/phil/bbb.dita
+3      2  /home/phil/ccc.dita
+
+Comma_Separated_Values_of_column_Target_File: "/home/phil/aaa.dita","/home/phil/bbb.dita","/home/phil/ccc.dita"
+
