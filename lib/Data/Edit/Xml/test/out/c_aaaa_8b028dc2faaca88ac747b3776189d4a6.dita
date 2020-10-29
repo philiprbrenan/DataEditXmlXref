@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd" []>
+<concept id="GUID-d003c721-d7e5-e4e8-3d84-ba7b4c80f56c">
+  <title>aaaa</title>
+  <conbody>
+    <p id="p1">pppp</p>
+  </conbody>
+</concept>
+<!--linted: 2019-07-07 at 00:40:33 -->
+<!--catalog: /home/phil/r/dita/dita-ot-3.1/catalog-dita.xml -->
+<!--ditaType: concept -->
+<!--docType: <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd" []> -->
+<!--file: test/out/c_aaaa_8b028dc2faaca88ac747b3776189d4a6.dita -->
+<!--guid: GUID-d003c721-d7e5-e4e8-3d84-ba7b4c80f56c -->
+<!--header: <?xml version="1.0" encoding="UTF-8"?> -->
+<!--inputFile: test/in/c.ditamap -->
+<!--lineNumber: Data::Edit::Xml::To::DitaVb /home/phil/perl/cpan/DataEditXmlToDita/lib/Data/Edit/Xml/To/DitaVb.pm 945 -->
+<!--project: all -->
+<!--title: aaaa -->
+<!--definition: p1 -->
+<!--definition: GUID-d003c721-d7e5-e4e8-3d84-ba7b4c80f56c -->
+<!--labels: GUID-d003c721-d7e5-e4e8-3d84-ba7b4c80f56c c -->
