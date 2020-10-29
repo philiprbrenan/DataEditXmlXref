@@ -1,0 +1,22 @@
+Good references at start
+
+Xref found 0 good references on 2020-02-04 at 22:35:01 at the start of processing.
+
+
+This file: test/report/good/references.txt
+
+   Column       Description
+1  Href         A good href attribute
+2  Source_File  The referencing source file
+
+
+Please note that this is a wide report: you might have to scroll
+a long way to the right to see all the columns of data available!
+
+
+Summary_of_column                - Count of unique values found in each column                     Use the Geany flick capability by placing your cursor on the first word
+Comma_Separated_Values_of_column - Comma separated list of the unique values found in each column  of these lines and pressing control + down arrow to see each sub report.
+
+
+[]
+
