@@ -1,0 +1,22 @@
+Processing phases elapsed times in descending order
+
+Xref phases took the following times on 2020-02-04 at 22:35:01
+
+Total run time: 0.357 seconds
+
+
+This file: test/report/timing/xref_phases.txt
+
+   Column        Description
+1  Phase         Xref processing phase
+2  Time_Seconds  Time in seconds taken by this processing phase
+
+
+   Phase                         Time_Seconds
+1  createReportsInParallel1            0.2553
+2  createReportsInParallel2            0.0318
+3  fixReferences                       0.0289
+4  analyzeInputFiles                   0.0223
+5  loadInputFiles                      0.0046
+6  reportReferencesFromBookMaps        0.0041
+7  checkReferences                     0.0028
