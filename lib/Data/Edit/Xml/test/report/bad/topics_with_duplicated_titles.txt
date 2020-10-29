@@ -1,0 +1,15 @@
+Topics with duplicate titles
+
+Xref noted 2 topics have duplicated titles on 2020-02-04 at 22:35:01
+
+
+This file: test/report/bad/topics_with_duplicated_titles.txt
+
+   Column  Description
+1  Title   Topic title
+2  File    Topic file
+
+
+   Title  File
+1  aaaa   /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_3119ee09e34375ed4d8a7a15274a9774.dita
+2         /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_8b028dc2faaca88ac747b3776189d4a6.dita
