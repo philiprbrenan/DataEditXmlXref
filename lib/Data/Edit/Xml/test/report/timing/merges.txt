@@ -1,0 +1,53 @@
+Field merging elapsed times in descending order
+
+Xref field merging took the following times on 2020-02-04 at 22:35:01
+
+This file: test/report/timing/merges.txt
+
+   Column  Description
+1  Field   Xref field merge
+2  Time    Time in seconds to merge this field
+
+
+    Field                         Time
+ 1  attributeCount                9.05990600585938e-06
+ 2  attributeNamesAndValuesCount  4.05311584472656e-06
+ 3  baseTag                       4.05311584472656e-06
+ 4  conRefs                       3.09944152832031e-06
+ 5  ids                           3.09944152832031e-06
+ 6  tags                          3.09944152832031e-06
+ 7  title                         3.09944152832031e-06
+ 8  badXml2                       2.86102294921875e-06
+ 9  images                        2.14576721191406e-06
+10  maxZoomOut                    2.14576721191406e-06
+11  tableDimensions               2.14576721191406e-06
+12  targetTopicToInputFiles       2.14576721191406e-06
+13  xrefBadFormat                 2.14576721191406e-06
+14  xRefs                         2.14576721191406e-06
+15  author                         1.9073486328125e-06
+16  docType                        1.9073486328125e-06
+17  idTags                         1.9073486328125e-06
+18  noHref                         1.9073486328125e-06
+19  otherMeta                      1.9073486328125e-06
+20  publicId                       1.9073486328125e-06
+21  topicIds                       1.9073486328125e-06
+22  xrefBadScope                   1.9073486328125e-06
+23  badXml1                       1.19209289550781e-06
+24  fixRefs                       1.19209289550781e-06
+25  emptyTopics                    9.5367431640625e-07
+26  flattenFiles                   9.5367431640625e-07
+27  hrefUrlEncoding                9.5367431640625e-07
+28  imagesReferencedFromTopics     9.5367431640625e-07
+29  ltgt                           9.5367431640625e-07
+30  md5Sum                         9.5367431640625e-07
+31  olBody                         9.5367431640625e-07
+32  parseFailed                    9.5367431640625e-07
+33  references                     9.5367431640625e-07
+34  requiredCleanUp                9.5367431640625e-07
+35  tagCount                       9.5367431640625e-07
+36  texts                          9.5367431640625e-07
+37  bookMapRefs                    9.5367431640625e-07
+38  urls                           9.5367431640625e-07
+39  validationErrors               9.5367431640625e-07
+40  vocabulary                     9.5367431640625e-07
+41  guidHrefs                                        0
