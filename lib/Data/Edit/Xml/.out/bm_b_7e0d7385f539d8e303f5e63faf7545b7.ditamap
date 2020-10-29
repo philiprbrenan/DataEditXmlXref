@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd" []>
+<bookmap id="GUID-a64800e9-3fd2-f069-a135-8ad52681dc8d" xtrf="/home/phil/perl/cpan/DataEditXmlToDita/test/in/b.dita">
+  <booktitle>
+    <mainbooktitle>b</mainbooktitle>
+  </booktitle>
+  <bookmeta>
+    <shortdesc/>
+    <author/>
+    <source/>
+    <category/>
+    <keywords>
+      <keyword/>
+    </keywords>
+    <prodinfo>
+      <prodname product=""/>
+      <vrmlist>
+        <vrm version=""/>
+      </vrmlist>
+      <prognum/>
+      <brand/>
+    </prodinfo>
+    <bookchangehistory>
+      <approved>
+        <revisionid/>
+      </approved>
+    </bookchangehistory>
+    <bookrights>
+      <copyrfirst>
+        <year/>
+      </copyrfirst>
+      <bookowner/>
+    </bookrights>
+  </bookmeta>
+  <frontmatter>
+    <notices/>
+    <booklists>
+      <toc/>
+    </booklists>
+    <preface/>
+  </frontmatter>
+  <chapter href="c_aaaa_Aaa_aaa_aaa_ca202b3f0a58c67675f9704a32546cea.dita" navtitle="aaaa"/>
+  <appendices/>
+  <reltable>
+    <relheader>
+      <relcolspec/>
+      <relcolspec/>
+    </relheader>
+    <relrow>
+      <relcell/>
+      <relcell/>
+    </relrow>
+    <relrow>
+      <relcell/>
+      <relcell/>
+    </relrow>
+  </reltable>
+</bookmap>
+<!--linted: 2019-06-14 at 00:25:21 -->
+<!--catalog: /home/phil/r/dita/dita-ot-3.1/catalog-dita.xml -->
+<!--ditaType: bookmap -->
+<!--docType: <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd" []> -->
+<!--file: /home/phil/perl/cpan/DataEditXmlToDita/test/out/bm_b_7e0d7385f539d8e303f5e63faf7545b7.ditamap -->
+<!--guid: GUID-a64800e9-3fd2-f069-a135-8ad52681dc8d -->
+<!--header: <?xml version="1.0" encoding="UTF-8"?> -->
+<!--inputFile: /home/phil/perl/cpan/DataEditXmlToDita/test/in/b.dita -->
+<!--lineNumber: Data::Edit::Xml::To::DitaVb /home/phil/perl/cpan/DataEditXmlToDita/lib/Data/Edit/Xml/To/DitaVb.pm 872 -->
+<!--project: all -->
+<!--title: b -->
+<!--definition: GUID-a64800e9-3fd2-f069-a135-8ad52681dc8d -->
+<!--labels: GUID-a64800e9-3fd2-f069-a135-8ad52681dc8d GUID-cb2559e9-b0de-d361-2466-0450ef523109 -->
