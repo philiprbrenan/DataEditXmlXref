@@ -1,0 +1,7 @@
+Reason,Reference,Ref_File,Ref_TopicId,Ref_Id,Source_TopicId,Target_TopicId,Source_File,Target_File
+"No such id in target topic","../phil/aaa.dita#aaa/pbbb","/home/phil/aaa.dita","aaa","pbbb","bbb","aaa","/home/phil/bbb.dita","/home/phil/aaa.dita"
+"No such id in target topic","../phil/bbb.dita#bbb/paaa","/home/phil/bbb.dita","bbb","paaa","bbb","bbb","/home/phil/bbb.dita","/home/phil/bbb.dita"
+"No such id in target topic","../phil/ccc.dita#ccc/pbbb","/home/phil/ccc.dita","ccc","pbbb","bbb","ccc","/home/phil/bbb.dita","/home/phil/ccc.dita"
+"Topic id does not match","../phil/aaa.dita#bbb/paaa","/home/phil/aaa.dita","bbb","paaa","ccc","aaa","/home/phil/ccc.dita","/home/phil/aaa.dita"
+"Topic id does not match","../phil/bbb.dita#aaa/pbbb","/home/phil/bbb.dita","aaa","pbbb","ccc","bbb","/home/phil/ccc.dita","/home/phil/bbb.dita"
+"Topic id does not match","../phil/ccc.dita#bbb/pccc","/home/phil/ccc.dita","bbb","pccc","ccc","ccc","/home/phil/ccc.dita","/home/phil/ccc.dita"
