@@ -1,0 +1,29 @@
+Ids removed
+
+Xref found 2 unreferenced ids on 2020-02-04 at 22:35:01
+
+The deleteUnusedIds option was set off so these ids have been retained.
+
+
+This file: test/report/lists/ids_removed.txt
+
+   Column  Description
+1  Id      An unreferenced id
+
+
+Summary_of_column                - Count of unique values found in each column                     Use the Geany flick capability by placing your cursor on the first word
+Comma_Separated_Values_of_column - Comma separated list of the unique values found in each column  of these lines and pressing control + down arrow to see each sub report.
+
+
+   Id
+1  GUID-7b56e1e5-a8b5-7f09-73e5-e6ecb15d5e8f
+2  GUID-d003c721-d7e5-e4e8-3d84-ba7b4c80f56c
+
+
+Summary_of_column_Id
+   Count  Id
+1      1  GUID-7b56e1e5-a8b5-7f09-73e5-e6ecb15d5e8f
+2      1  GUID-d003c721-d7e5-e4e8-3d84-ba7b4c80f56c
+
+Comma_Separated_Values_of_column_Id: "GUID-7b56e1e5-a8b5-7f09-73e5-e6ecb15d5e8f","GUID-d003c721-d7e5-e4e8-3d84-ba7b4c80f56c"
+
