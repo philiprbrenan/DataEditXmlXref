@@ -1,0 +1,34 @@
+Public Ids
+
+Xref found 1 public ids in use on 2020-02-04 at 22:35:01
+
+0 files have a missing public id.
+
+
+This file: test/report/lists/public_ids.txt
+
+   Column     Description
+1  Count      Number of references to this public id
+2  Public_Id  A public Id found in the input corpus
+
+
+Summary_of_column                - Count of unique values found in each column                     Use the Geany flick capability by placing your cursor on the first word
+Comma_Separated_Values_of_column - Comma separated list of the unique values found in each column  of these lines and pressing control + down arrow to see each sub report.
+
+
+   Count  Public_Id
+1      2  -//OASIS//DTD DITA Concept//EN
+
+
+Summary_of_column_Count
+   Count  Count
+1      1      2
+
+Comma_Separated_Values_of_column_Count: 2
+
+Summary_of_column_Public_Id
+   Count  Public_Id
+1      1  -//OASIS//DTD DITA Concept//EN
+
+Comma_Separated_Values_of_column_Public_Id: "-//OASIS//DTD DITA Concept//EN"
+
