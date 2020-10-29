@@ -1,0 +1,15 @@
+Tags to Texts Ratio
+
+Xref found the following tag and text counts on 2020-02-04 at 22:35:01
+
+This file: test/report/count/tagsAndTexts.txt
+
+   Column  Description
+1  Item    A tag or some text
+2  Count   The number of times the tag or text occurs
+
+
+   Item           Count
+1  Tags                 9
+2  Texts                4
+3  Tags to Texts   2.2500
