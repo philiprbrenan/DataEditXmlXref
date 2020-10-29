@@ -1,0 +1,19 @@
+Images to referring bookmaps
+
+Xref found 0 images referred to from bookmaps on 2020-02-04 at 22:35:01
+
+
+This file: test/report/lists/images_to_bookmaps.txt
+
+   Column   Description
+1  Count    The number of times this image is reffered to by this bookmap
+2  Image    The image in question
+3  Bookmap  A bookmap that refers to this image
+
+
+Summary_of_column                - Count of unique values found in each column                     Use the Geany flick capability by placing your cursor on the first word
+Comma_Separated_Values_of_column - Comma separated list of the unique values found in each column  of these lines and pressing control + down arrow to see each sub report.
+
+
+[]
+
