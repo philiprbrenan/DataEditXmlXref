@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd" []>
+<concept id="GUID-1581d732-b13a-edf0-2651-220a78f1c0fa" xtrf="/home/phil/perl/cpan/DataEditXmlToDita/test/in/b.dita">
+  <title>aaaa</title>
+  <conbody>
+    <p>Aaa aaa aaa</p>
+  </conbody>
+</concept>
+<!--linted: 2019-06-14 at 00:25:21 -->
+<!--catalog: /home/phil/r/dita/dita-ot-3.1/catalog-dita.xml -->
+<!--ditaType: concept -->
+<!--docType: <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd" []> -->
+<!--file: /home/phil/perl/cpan/DataEditXmlToDita/test/out/c_aaaa_Aaa_aaa_aaa_ca202b3f0a58c67675f9704a32546cea.dita -->
+<!--guid: GUID-1581d732-b13a-edf0-2651-220a78f1c0fa -->
+<!--header: <?xml version="1.0" encoding="UTF-8"?> -->
+<!--inputFile: /home/phil/perl/cpan/DataEditXmlToDita/test/in/b.dita -->
+<!--lineNumber: Data::Edit::Xml::To::DitaVb /home/phil/perl/cpan/DataEditXmlToDita/lib/Data/Edit/Xml/To/DitaVb.pm 872 -->
+<!--project: all -->
+<!--title: aaaa -->
+<!--definition: GUID-1581d732-b13a-edf0-2651-220a78f1c0fa -->
+<!--labels: GUID-1581d732-b13a-edf0-2651-220a78f1c0fa cb -->
