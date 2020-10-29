@@ -1,0 +1,23 @@
+These failing references were successfully resolved
+
+Xref successfully resolved 0 previously failing references on 2020-02-04 at 22:35:01
+
+
+This file: test/report/good/fixed_references.txt
+
+   Column        Description
+1  Method        The way that the reference was fixed
+2  Tag           The tag of the node on which the reference was fixed
+3  Attr          The attribute being fixed - normally href
+4  Ref           The reference that is being resolved
+5  Target_File   The file the reference resolves to.
+6  File          The file in which the reference appears
+7  Source_Files  The source files that gave rise to the file containing the reference after file flattening
+
+
+Summary_of_column                - Count of unique values found in each column                     Use the Geany flick capability by placing your cursor on the first word
+Comma_Separated_Values_of_column - Comma separated list of the unique values found in each column  of these lines and pressing control + down arrow to see each sub report.
+
+
+[]
+
