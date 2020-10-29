@@ -1,0 +1,14 @@
+File extensions
+
+Xref found 1 different file extensions on 2020-02-04 at 22:35:01 in folder: /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/
+
+
+This file: test/report/count/fileExtensions.txt
+
+   Column  Description
+1  Ext     An extension that appears in the input corpus
+2  Count   The number of times the extension appears in the corpus.
+
+
+   Ext  Count
+1    2  dita
