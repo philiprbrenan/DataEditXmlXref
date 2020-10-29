@@ -16,7 +16,21 @@ jobs:
       run: |
         sudo apt update
         sudo apt -y install build-essential tree
-        sudo cpan install Data::Edit::Xml Data::Table::Text Dita::GBStandard
+        sudo cpan install Module::Build
+
+    - name: InstallDataEditXml
+      run: |
+        sudo cpan install Data::Edit::Xml
+
+    - name: InstallDataTableText
+      run: |
+        sudo cpan install Data::Table::Text
+
+    - name: InstallDitaGBStandard
+      run: |
+        sudo cpan install Dita::GBStandard
+
+
 
     - name: Test
       run: |
