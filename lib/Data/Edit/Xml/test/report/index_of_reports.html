@@ -1,0 +1,54 @@
+<style>
+.sizeLargeBold
+ {font-size: 1.2em;
+  font-weight: bold;
+ }
+</style>
+
+<table border="0" cellpadding="10">
+<tr>
+<td><big><b>0</b> reports available on 2020-02-04 at 22:35:01</big>
+<td><a class="sizeLargeBold" onclick='resetAllVisible(false)'>Hide All</a>
+
+<td><a class="sizeLargeBold" onclick='resetAllVisible(true)' >Show All</a>
+</table>
+<p><table border="0" cellpadding="10">
+
+</table></p>
+<script>
+const groups = [];                                                       // Groups available
+const hidden = {};                                                              // Groups that hav been hidden
+
+function setGroupEmphasis()                                                     // Set the emphasis for each group depending on whether we are showing this group or not
+ {for (let group of groups)
+   {const S = document.getElementsByClassName("select_"+group);
+    for(let s of S)
+     {if (hidden[group])
+       {s.classList.remove('sizeLargeBold');
+       }
+      else
+       {s.classList.add('sizeLargeBold');
+       }
+     }
+   }
+ }
+
+function show_report(group)                                                     // Toggle the visibility of a group
+ {hidden[group] = !hidden[group];
+  const h = hidden[group] ? 'hidden' :'visible';
+  setGroupEmphasis();
+  const reports = document.getElementsByClassName("report");
+  for (let r of reports)
+   {if (r.classList.contains('report_'+group))
+     {r.style.visibility = h;
+     }
+   }
+ }
+
+function resetAllVisible(show)
+ {for (let g of groups)
+   {hidden[g] = show;
+    show_report(g);
+   }
+ }
+</script>
