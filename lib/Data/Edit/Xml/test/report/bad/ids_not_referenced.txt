@@ -1,0 +1,49 @@
+Ids that have not been referenced
+
+Xref found 1 unreferenced ids on 2020-02-04 at 22:35:01
+
+The 1 ids below which are not marked with ** are not referenced by
+any other file in this corpus and thus should be considered for removal.
+
+
+
+This file: test/report/bad/ids_not_referenced.txt
+
+   Column   Description
+1  TopicId  If this id is a topic id then this column will have ** in it.
+2  Id       The id that has not been referenced
+3  File     The file containing the id that has not been referenced
+
+
+Summary_of_column                - Count of unique values found in each column                     Use the Geany flick capability by placing your cursor on the first word
+Comma_Separated_Values_of_column - Comma separated list of the unique values found in each column  of these lines and pressing control + down arrow to see each sub report.
+
+
+   TopicId  Id                                         File
+1  **       GUID-7b56e1e5-a8b5-7f09-73e5-e6ecb15d5e8f  /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_3119ee09e34375ed4d8a7a15274a9774.dita
+2  **       GUID-d003c721-d7e5-e4e8-3d84-ba7b4c80f56c  /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_8b028dc2faaca88ac747b3776189d4a6.dita
+3           p1                                         /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_8b028dc2faaca88ac747b3776189d4a6.dita
+
+
+Summary_of_column_TopicId
+   Count  TopicId
+1      2  **
+2      1
+
+Comma_Separated_Values_of_column_TopicId: "","**"
+
+Summary_of_column_Id
+   Count  Id
+1      1  GUID-7b56e1e5-a8b5-7f09-73e5-e6ecb15d5e8f
+2      1  GUID-d003c721-d7e5-e4e8-3d84-ba7b4c80f56c
+3      1  p1
+
+Comma_Separated_Values_of_column_Id: "GUID-7b56e1e5-a8b5-7f09-73e5-e6ecb15d5e8f","GUID-d003c721-d7e5-e4e8-3d84-ba7b4c80f56c","p1"
+
+Summary_of_column_File
+   Count  File
+1      2  /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_8b028dc2faaca88ac747b3776189d4a6.dita
+2      1  /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_3119ee09e34375ed4d8a7a15274a9774.dita
+
+Comma_Separated_Values_of_column_File: "/home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_3119ee09e34375ed4d8a7a15274a9774.dita","/home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_8b028dc2faaca88ac747b3776189d4a6.dita"
+
