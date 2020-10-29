@@ -1,0 +1,17 @@
+Tags
+
+Xref found 5 different tags on 2020-02-04 at 22:35:01
+
+This file: test/report/count/tags.txt
+
+   Column  Description
+1  Tag     The tag name of the xml node
+2  Count   The number of times this tag name occurs
+
+
+   Tag  Count
+1    3  CDATA
+2    2  conbody
+3    2  concept
+4    2  p
+5    2  title
