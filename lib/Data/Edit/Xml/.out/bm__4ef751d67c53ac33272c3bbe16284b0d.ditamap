@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd" []>
+<bookmap id="GUID-18c89db5-781b-666a-f24a-fbafa6d70733" xtrf="/home/phil/perl/cpan/DataEditXmlToDita/test/in/ab.ditamap">
+  <chapter href="bm_a_e51001d04ee1af06779d14f1837ba294.ditamap" navtitle="aaaa">
+    <topicref navtitle="aaaa" xtrf="b.dita"/>
+  </chapter>
+</bookmap>
+
+<!--linted: 2019-06-14 at 00:25:21 -->
+<!--catalog: /home/phil/r/dita/dita-ot-3.1/catalog-dita.xml -->
+<!--ditaType: bookmap -->
+<!--docType: <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd" []> -->
+<!--file: /home/phil/perl/cpan/DataEditXmlToDita/test/out/bm__4ef751d67c53ac33272c3bbe16284b0d.ditamap -->
+<!--guid: GUID-18c89db5-781b-666a-f24a-fbafa6d70733 -->
+<!--header: <?xml version="1.0" encoding="UTF-8"?> -->
+<!--inputFile: /home/phil/perl/cpan/DataEditXmlToDita/test/in/ab.ditamap -->
+<!--lineNumber: Data::Edit::Xml::To::DitaVb /home/phil/perl/cpan/DataEditXmlToDita/lib/Data/Edit/Xml/To/DitaVb.pm 872 -->
+<!--project: all -->
+<!--title: ab -->
+<!--definition: GUID-18c89db5-781b-666a-f24a-fbafa6d70733 -->
+<!--labels: GUID-18c89db5-781b-666a-f24a-fbafa6d70733 b1 -->
