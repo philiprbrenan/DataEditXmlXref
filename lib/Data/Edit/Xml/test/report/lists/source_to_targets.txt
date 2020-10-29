@@ -1,0 +1,51 @@
+The target topics cut out of the source documents
+
+Xref noted 3 cut out topics on 2020-02-04 at 22:35:01
+
+
+This file: test/report/lists/source_to_targets.txt
+
+   Column   Description
+1  Type     The type of reference
+2  DocType  Document type of the source file
+3  Source   Source file
+4  Target   Cut out file
+
+
+Summary_of_column                - Count of unique values found in each column                     Use the Geany flick capability by placing your cursor on the first word
+Comma_Separated_Values_of_column - Comma separated list of the unique values found in each column  of these lines and pressing control + down arrow to see each sub report.
+
+
+   Type   DocType  Source             Target
+1  topic  concept  test/in/a.dita     test/out/c_aaaa_3119ee09e34375ed4d8a7a15274a9774.dita
+2  topic  concept  test/in/b.dita     test/out/c_aaaa_8b028dc2faaca88ac747b3776189d4a6.dita
+3  topic  concept  test/in/c.ditamap  test/out/c_aaaa_8b028dc2faaca88ac747b3776189d4a6.dita
+
+
+Summary_of_column_Type
+   Count  Type
+1      3  topic
+
+Comma_Separated_Values_of_column_Type: "topic"
+
+Summary_of_column_DocType
+   Count  DocType
+1      3  concept
+
+Comma_Separated_Values_of_column_DocType: "concept"
+
+Summary_of_column_Source
+   Count  Source
+1      1  test/in/a.dita
+2      1  test/in/b.dita
+3      1  test/in/c.ditamap
+
+Comma_Separated_Values_of_column_Source: "test/in/a.dita","test/in/b.dita","test/in/c.ditamap"
+
+Summary_of_column_Target
+   Count  Target
+1      2  test/out/c_aaaa_8b028dc2faaca88ac747b3776189d4a6.dita
+2      1  test/out/c_aaaa_3119ee09e34375ed4d8a7a15274a9774.dita
+
+Comma_Separated_Values_of_column_Target: "test/out/c_aaaa_3119ee09e34375ed4d8a7a15274a9774.dita","test/out/c_aaaa_8b028dc2faaca88ac747b3776189d4a6.dita"
+
