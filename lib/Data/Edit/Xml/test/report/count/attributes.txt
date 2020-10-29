@@ -1,0 +1,14 @@
+Attributes
+
+Xref found 2 different attributes on 2020-02-04 at 22:35:01
+
+This file: test/report/count/attributes.txt
+
+   Column     Description
+1  Count      The number of times this attribute appears
+2  Attribute  The attribute name being counted
+
+
+   Count  Attribute
+1      1  conref
+2      3  id
