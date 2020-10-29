@@ -1,0 +1,18 @@
+Topics referenced by bookmaps
+
+Xref found 0 topics that are referenced by one or more bookmaps on 2020-02-04 at 22:35:01
+
+
+This file: test/report/good/topics_referenced_from_bookmaps.txt
+
+   Column  Description
+1  Count   Number of referring bookmaps
+2  Topic   Topic referenced from one or more bookmaps
+
+
+Summary_of_column                - Count of unique values found in each column                     Use the Geany flick capability by placing your cursor on the first word
+Comma_Separated_Values_of_column - Comma separated list of the unique values found in each column  of these lines and pressing control + down arrow to see each sub report.
+
+
+[]
+
