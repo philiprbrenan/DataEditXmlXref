@@ -1,0 +1,32 @@
+References to fix
+
+Xref found 1 hrefs that should be fixed on 2020-02-04 at 22:35:01
+
+
+This file: test/report/lists/fixRefs.txt
+
+   Column     Description
+1  Reference  The reference to be fixed
+2  Source     The topic that contains the reference
+
+
+Summary_of_column                - Count of unique values found in each column                     Use the Geany flick capability by placing your cursor on the first word
+Comma_Separated_Values_of_column - Comma separated list of the unique values found in each column  of these lines and pressing control + down arrow to see each sub report.
+
+
+   Reference    Source
+1  b.dita#c/p1  /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_3119ee09e34375ed4d8a7a15274a9774.dita
+
+
+Summary_of_column_Reference
+   Count  Reference
+1      1  b.dita#c/p1
+
+Comma_Separated_Values_of_column_Reference: "b.dita#c/p1"
+
+Summary_of_column_Source
+   Count  Source
+1      1  /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_3119ee09e34375ed4d8a7a15274a9774.dita
+
+Comma_Separated_Values_of_column_Source: "/home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_3119ee09e34375ed4d8a7a15274a9774.dita"
+
