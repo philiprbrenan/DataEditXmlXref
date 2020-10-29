@@ -1,0 +1,58 @@
+Invalid references
+
+Xref moved 1 invalid references to M3 on 2020-02-04 at 22:35:01 as fixBadRefs=>1 was specified
+
+
+This file: test/report/bad/failing_references.txt
+
+   Column        Description
+1  Reason        The reason the reference was not fixed
+2  Tag           The tag of the node in which the reference failure occurs
+3  Attr          The attribute of the node in which the reference failure occurs
+4  Reference     The reference not being fixed
+5  File          The file in which the reference appears
+6  Source_Files  One or more source files that from which this file was derived
+
+
+Summary_of_column                - Count of unique values found in each column                     Use the Geany flick capability by placing your cursor on the first word
+Comma_Separated_Values_of_column - Comma separated list of the unique values found in each column  of these lines and pressing control + down arrow to see each sub report.
+
+
+   Reason          Tag  Attr    Reference    File                                                                                                          Source_Files
+1  No such target  p    conref  b.dita#c/p1  /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_3119ee09e34375ed4d8a7a15274a9774.dita
+
+
+Summary_of_column_Reason
+   Count  Reason
+1      1  No such target
+
+Comma_Separated_Values_of_column_Reason: "No such target"
+
+Summary_of_column_Tag
+   Count  Tag
+1      1  p
+
+Comma_Separated_Values_of_column_Tag: "p"
+
+Summary_of_column_Attr
+   Count  Attr
+1      1  conref
+
+Comma_Separated_Values_of_column_Attr: "conref"
+
+Summary_of_column_Reference
+   Count  Reference
+1      1  b.dita#c/p1
+
+Comma_Separated_Values_of_column_Reference: "b.dita#c/p1"
+
+Summary_of_column_File
+   Count  File
+1      1  /home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_3119ee09e34375ed4d8a7a15274a9774.dita
+
+Comma_Separated_Values_of_column_File: "/home/phil/perl/cpan/DataEditXmlXref/lib/Data/Edit/Xml/test/out/c_aaaa_3119ee09e34375ed4d8a7a15274a9774.dita"
+
+Summary_of_column_Source_Files
+[]
+Comma_Separated_Values_of_column_Source_Files: 
+
