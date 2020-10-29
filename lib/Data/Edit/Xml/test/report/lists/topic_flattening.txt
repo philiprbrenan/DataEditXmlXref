@@ -1,0 +1,44 @@
+Topic files flattened from multiple sources
+
+Xref noted that 2 source topics were reduced to 1 target topics on 2020-02-04 at 22:35:01
+
+This represents a flattening factor of:   2.0000  (higher is better) in the topics that got flattened
+
+Total number of topics    : 2
+Number of topics flattened: 1
+Percent topics   flattened: 50.0000
+
+
+This file: test/report/lists/topic_flattening.txt
+
+   Column  Description
+1  Count   Number of sources that created this target
+2  Target  The target file flattened out from multiple source files
+
+
+Summary_of_column                - Count of unique values found in each column                     Use the Geany flick capability by placing your cursor on the first word
+Comma_Separated_Values_of_column - Comma separated list of the unique values found in each column  of these lines and pressing control + down arrow to see each sub report.
+
+
+   Count  Target
+1      2  test/out/c_aaaa_8b028dc2faaca88ac747b3776189d4a6.dita
+2           test/in/b.dita
+3           test/in/c.ditamap
+4
+
+
+Summary_of_column_Count
+   Count  Count
+1      3
+2      1      2
+
+Comma_Separated_Values_of_column_Count: "",2
+
+Summary_of_column_Target
+   Count  Target
+1      1    test/in/b.dita
+2      1    test/in/c.ditamap
+3      1  test/out/c_aaaa_8b028dc2faaca88ac747b3776189d4a6.dita
+
+Comma_Separated_Values_of_column_Target: "  test/in/b.dita","  test/in/c.ditamap","test/out/c_aaaa_8b028dc2faaca88ac747b3776189d4a6.dita"
+
