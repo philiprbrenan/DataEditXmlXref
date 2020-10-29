@@ -1,0 +1,21 @@
+Images referenced from bookmaps
+
+Xref found 0 images referenced from bookmaps via topics on 2020-02-04 at 22:35:01
+
+
+This file: test/report/lists/images_from_bookmaps.txt
+
+   Column   Description
+1  Href     The href that contains an image reference
+2  Exists   Whether the referenced image exists or not
+3  Image    The name of the image file
+4  Topic    The topic that referenced the image
+5  Bookmap  The book map that referenced the topic
+
+
+Summary_of_column                - Count of unique values found in each column                     Use the Geany flick capability by placing your cursor on the first word
+Comma_Separated_Values_of_column - Comma separated list of the unique values found in each column  of these lines and pressing control + down arrow to see each sub report.
+
+
+[]
+
