@@ -1,0 +1,17 @@
+Image files
+
+Xref found 0 image files on 2020-02-04 at 22:35:01
+
+This file: test/report/good/image_files.txt
+
+   Column      Description
+1  Count       The number of references to this image
+2  Image_File  The file name of the image
+
+
+Summary_of_column                - Count of unique values found in each column                     Use the Geany flick capability by placing your cursor on the first word
+Comma_Separated_Values_of_column - Comma separated list of the unique values found in each column  of these lines and pressing control + down arrow to see each sub report.
+
+
+[]
+
