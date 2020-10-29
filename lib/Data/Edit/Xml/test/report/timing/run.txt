@@ -1,0 +1,14 @@
+Run times in seconds
+
+Xref took the following time to run on 2020-02-04 at 22:35:01
+
+This file: test/report/timing/run.txt
+
+   Column        Description
+1  Start_Time    Start time of the run
+2  End_Time      End time of the run
+3  Elapsed_Time  Xref took this many seconds to run
+
+
+   Start_Time        End_Time          Elapsed_Time
+1  1580855701.45731  1580855701.81632  0.359012842178345
