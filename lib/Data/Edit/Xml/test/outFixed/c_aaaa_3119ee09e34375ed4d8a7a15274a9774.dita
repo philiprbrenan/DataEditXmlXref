@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd" []>
+<concept id="GUID-7b56e1e5-a8b5-7f09-73e5-e6ecb15d5e8f">
+  <title>aaaa</title>
+  <conbody>
+    <p xtrf="b.dita#c/p1"/>
+  </conbody>
+</concept>
+<!--linted: 2019-07-07 at 00:40:33 -->
+<!--catalog: /home/phil/r/dita/dita-ot-3.1/catalog-dita.xml -->
+<!--ditaType: concept -->
+<!--docType: <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd" []> -->
+<!--file: test/out/c_aaaa_3119ee09e34375ed4d8a7a15274a9774.dita -->
+<!--guid: GUID-7b56e1e5-a8b5-7f09-73e5-e6ecb15d5e8f -->
+<!--header: <?xml version="1.0" encoding="UTF-8"?> -->
+<!--inputFile: test/in/a.dita -->
+<!--lineNumber: Data::Edit::Xml::To::DitaVb /home/phil/perl/cpan/DataEditXmlToDita/lib/Data/Edit/Xml/To/DitaVb.pm 945 -->
+<!--project: all -->
+<!--title: aaaa -->
+<!--definition: GUID-7b56e1e5-a8b5-7f09-73e5-e6ecb15d5e8f -->
+<!--labels: GUID-7b56e1e5-a8b5-7f09-73e5-e6ecb15d5e8f c -->
